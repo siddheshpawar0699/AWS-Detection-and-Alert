@@ -1,0 +1,10 @@
+{
+	"s3_bucket" : "nivedita-siddhesh-files",
+	"s3_key_frames_root" : "frames/",
+
+	"ddb_table" : "EnrichedFrame",
+	"ddb_input_image_table": "felon_images_metadata",
+	"rekognition_col_name": "felon_images",
+
+	"timezone" : "US/Eastern"
+}

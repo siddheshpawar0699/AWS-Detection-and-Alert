@@ -1,0 +1,6 @@
+.venv/
+aws-infra/*.tfstate*
+aws-infra/.terraform
+__pycache__
+build/
+lambda/imageprocessor/pytz*

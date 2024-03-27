@@ -1,0 +1,7 @@
+{
+    "SourceS3BucketParameter" : "nivislust",
+    "ImageProcessorSourceS3KeyParameter" : "src/lambda_imageprocessor.zip",
+    "FrameFetcherSourceS3KeyParameter" : "src/lambda_framefetcher.zip",
+
+    "FrameS3BucketNameParameter" : "nivedita-siddhesh-files"
+}
